@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\brand\.android\build-cache\cd2dcdabc794e4055eb4009b83ccb232e1c52693\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f993f017ce8d2d45a3e815e1c7b0147a67c19721\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brand\.android\build-cache\d944e97966d16228b36a878a19b671457a7d49e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3dedc5296811803b52209f192578d37e589a464\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brand\.android\build-cache\69bc3a9786fff6450608badf43747ab253ef42ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\pre-dexed\release\classes_8d9c518752ce98e5053e3938cdab9022b771184d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brand\.android\build-cache\d944e97966d16228b36a878a19b671457a7d49e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\pre-dexed\release\classes_e3dedc5296811803b52209f192578d37e589a464.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brand\.android\build-cache\69bc3a9786fff6450608badf43747ab253ef42ad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d9c518752ce98e5053e3938cdab9022b771184d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brand\.android\build-cache\97d9bda6b9e4ad6774f8c6077c8c3ebc9e87c9ae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7ad4c186c9d2a74cd3654e53bc383b81229bcea\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brand\.android\build-cache\defcd86e162852e2c91c85b585fe57ac393df7d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\pre-dexed\release\classes_d0c0b61e65a0f6aeffc666b26ab7aac2535e5520.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brand\.android\build-cache\97d9bda6b9e4ad6774f8c6077c8c3ebc9e87c9ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\pre-dexed\release\classes_f7ad4c186c9d2a74cd3654e53bc383b81229bcea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brand\.android\build-cache\6804298f31e9245eb46d6e623b9ea36f4c3babad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\pre-dexed\release\classes_47888b886900010a933679f2394c2f6e88336812.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brand\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_22c07c495ce6bbdf4569c92bc0cd38229ded8b09\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brand\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\pre-dexed\release\support-annotations-25.3.0_22c07c495ce6bbdf4569c92bc0cd38229ded8b09.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brand\.android\build-cache\6804298f31e9245eb46d6e623b9ea36f4c3babad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47888b886900010a933679f2394c2f6e88336812\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brand\.android\build-cache\defcd86e162852e2c91c85b585fe57ac393df7d8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0c0b61e65a0f6aeffc666b26ab7aac2535e5520\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brand\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha9\constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.0-alpha9_d96e3675fd9b930dc87baa27fc1574e14cae3c3e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brand\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha9\constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha9_d96e3675fd9b930dc87baa27fc1574e14cae3c3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brand\.android\build-cache\223691e271fa0e1659c0b98cfa6b453c4b290b73\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be60242a04555df50834eab300f738085aee109f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42eeff6b6dec8b305f19b1e5f3c454fb1a6ddc3c">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_98ef094f02ebf5ec4d4464309af1517aaa46761c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brand\.android\build-cache\223691e271fa0e1659c0b98cfa6b453c4b290b73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\pre-dexed\release\classes_be60242a04555df50834eab300f738085aee109f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brand\.android\build-cache\2fd6c466a23d20ebb77e9404c6b37bf3b43092cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b34c781f9061594100c42ffca432361258342390\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brand\.android\build-cache\2fd6c466a23d20ebb77e9404c6b37bf3b43092cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\pre-dexed\release\classes_b34c781f9061594100c42ffca432361258342390.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2ff985f9d29dc2e32fa0aafa5a9931f15624e4ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brand\.android\build-cache\6abdd3fed3a67aaf60a0b51b67f87b1b0ea375fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_974608d28dc4a9809296aab2173b259b5e67a769\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brand\.android\build-cache\3bb6821bc98f28810c4d6d0965bd80c644b4cb00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\pre-dexed\release\classes_101c6b583f4ec35b3085dcacf6f239d5afddb1d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brand\.android\build-cache\6abdd3fed3a67aaf60a0b51b67f87b1b0ea375fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\pre-dexed\release\classes_974608d28dc4a9809296aab2173b259b5e67a769.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brand\.android\build-cache\3bb6821bc98f28810c4d6d0965bd80c644b4cb00\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_101c6b583f4ec35b3085dcacf6f239d5afddb1d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brand\.android\build-cache\cd2dcdabc794e4055eb4009b83ccb232e1c52693\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\brand\Google Drive\Spring 2018\590\Android_Sourcecode_7\source code\InsertCalendarEvent\app\build\intermediates\pre-dexed\release\classes_f993f017ce8d2d45a3e815e1c7b0147a67c19721.jar" />
+    </item>
+
+</items>
